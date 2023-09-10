@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "520909488911",
+    "project_id": "docepaladar-35c9c",
+    "storage_bucket": "docepaladar-35c9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520909488911:android:405ae1655d4ef8e166747a",
+        "android_client_info": {
+          "package_name": "com.example.doce_paladar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHvBtG1QHZ1hI-HXF749Qd4OfWGPmaAJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
